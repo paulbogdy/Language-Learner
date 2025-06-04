@@ -1,0 +1,580 @@
+[
+  {
+    "infinitive": "être",
+    "meaning": "to be",
+    "group": "3rd",
+    "auxiliary": "avoir",
+    "conjugations": {
+      "present": {
+        "je": "suis",
+        "tu": "es",
+        "il_elle_on": "est",
+        "nous": "sommes",
+        "vous": "êtes",
+        "ils_elles": "sont"
+      },
+      "imparfait": {
+        "je": "étais",
+        "tu": "étais",
+        "il_elle_on": "était",
+        "nous": "étions",
+        "vous": "étiez",
+        "ils_elles": "étaient"
+      },
+      "futur": {
+        "je": "serai",
+        "tu": "seras",
+        "il_elle_on": "sera",
+        "nous": "serons",
+        "vous": "serez",
+        "ils_elles": "seront"
+      },
+      "passe_compose": {
+        "je": "ai été",
+        "tu": "as été",
+        "il_elle_on": "a été",
+        "nous": "avons été",
+        "vous": "avez été",
+        "ils_elles": "ont été"
+      },
+      "plus_que_parfait": {
+        "je": "avais été",
+        "tu": "avais été",
+        "il_elle_on": "avait été",
+        "nous": "avions été",
+        "vous": "aviez été",
+        "ils_elles": "avaient été"
+      },
+      "futur_anterieur": {
+        "je": "aurai été",
+        "tu": "auras été",
+        "il_elle_on": "aura été",
+        "nous": "aurons été",
+        "vous": "aurez été",
+        "ils_elles": "auront été"
+      },
+      "conditionnel": {
+        "je": "serais",
+        "tu": "serais",
+        "il_elle_on": "serait",
+        "nous": "serions",
+        "vous": "seriez",
+        "ils_elles": "seraient"
+      },
+      "conditionnel_passe": {
+        "je": "aurais été",
+        "tu": "aurais été",
+        "il_elle_on": "aurait été",
+        "nous": "aurions été",
+        "vous": "auriez été",
+        "ils_elles": "auraient été"
+      },
+      "subjonctif_present": {
+        "je": "sois",
+        "tu": "sois",
+        "il_elle_on": "soit",
+        "nous": "soyons",
+        "vous": "soyez",
+        "ils_elles": "soient"
+      },
+      "subjonctif_passe": {
+        "je": "aie été",
+        "tu": "aies été",
+        "il_elle_on": "ait été",
+        "nous": "ayons été",
+        "vous": "ayez été",
+        "ils_elles": "aient été"
+      },
+      "imperatif": {
+        "je": "",
+        "tu": "sois",
+        "il_elle_on": "",
+        "nous": "soyons",
+        "vous": "soyez",
+        "ils_elles": ""
+      }
+    }
+  },
+  {
+    "infinitive": "avoir",
+    "meaning": "to have",
+    "group": "3rd",
+    "auxiliary": "avoir",
+    "conjugations": {
+      "present": {
+        "je": "ai",
+        "tu": "as",
+        "il_elle_on": "a",
+        "nous": "avons",
+        "vous": "avez",
+        "ils_elles": "ont"
+      },
+      "imparfait": {
+        "je": "avais",
+        "tu": "avais",
+        "il_elle_on": "avait",
+        "nous": "avions",
+        "vous": "aviez",
+        "ils_elles": "avaient"
+      },
+      "futur": {
+        "je": "aurai",
+        "tu": "auras",
+        "il_elle_on": "aura",
+        "nous": "aurons",
+        "vous": "aurez",
+        "ils_elles": "auront"
+      },
+      "passe_compose": {
+        "je": "ai eu",
+        "tu": "as eu",
+        "il_elle_on": "a eu",
+        "nous": "avons eu",
+        "vous": "avez eu",
+        "ils_elles": "ont eu"
+      },
+      "plus_que_parfait": {
+        "je": "avais eu",
+        "tu": "avais eu",
+        "il_elle_on": "avait eu",
+        "nous": "avions eu",
+        "vous": "aviez eu",
+        "ils_elles": "avaient eu"
+      },
+      "futur_anterieur": {
+        "je": "aurai eu",
+        "tu": "auras eu",
+        "il_elle_on": "aura eu",
+        "nous": "aurons eu",
+        "vous": "aurez eu",
+        "ils_elles": "auront eu"
+      },
+      "conditionnel": {
+        "je": "aurais",
+        "tu": "aurais",
+        "il_elle_on": "aurait",
+        "nous": "aurions",
+        "vous": "auriez",
+        "ils_elles": "auraient"
+      },
+      "conditionnel_passe": {
+        "je": "aurais eu",
+        "tu": "aurais eu",
+        "il_elle_on": "aurait eu",
+        "nous": "aurions eu",
+        "vous": "auriez eu",
+        "ils_elles": "auraient eu"
+      },
+      "subjonctif_present": {
+        "je": "aie",
+        "tu": "aies",
+        "il_elle_on": "ait",
+        "nous": "ayons",
+        "vous": "ayez",
+        "ils_elles": "aient"
+      },
+      "subjonctif_passe": {
+        "je": "aie eu",
+        "tu": "aies eu",
+        "il_elle_on": "ait eu",
+        "nous": "ayons eu",
+        "vous": "ayez eu",
+        "ils_elles": "aient eu"
+      },
+      "imperatif": {
+        "je": "",
+        "tu": "aie",
+        "il_elle_on": "",
+        "nous": "ayons",
+        "vous": "ayez",
+        "ils_elles": ""
+      }
+    }
+  },
+  {
+    "infinitive": "aller",
+    "meaning": "to go",
+    "group": "3rd",
+    "auxiliary": "être",
+    "conjugations": {
+      "present": {
+        "je": "vais",
+        "tu": "vas",
+        "il_elle_on": "va",
+        "nous": "allons",
+        "vous": "allez",
+        "ils_elles": "vont"
+      },
+      "imparfait": {
+        "je": "allais",
+        "tu": "allais",
+        "il_elle_on": "allait",
+        "nous": "allions",
+        "vous": "alliez",
+        "ils_elles": "allaient"
+      },
+      "futur": {
+        "je": "irai",
+        "tu": "iras",
+        "il_elle_on": "ira",
+        "nous": "irons",
+        "vous": "irez",
+        "ils_elles": "iront"
+      },
+      "passe_compose": {
+        "je": "suis allé",
+        "tu": "es allé",
+        "il_elle_on": "est allé",
+        "nous": "sommes allés",
+        "vous": "êtes allés",
+        "ils_elles": "sont allés"
+      },
+      "plus_que_parfait": {
+        "je": "étais allé",
+        "tu": "étais allé",
+        "il_elle_on": "était allé",
+        "nous": "étions allés",
+        "vous": "étiez allés",
+        "ils_elles": "étaient allés"
+      },
+      "futur_anterieur": {
+        "je": "serai allé",
+        "tu": "seras allé",
+        "il_elle_on": "sera allé",
+        "nous": "serons allés",
+        "vous": "serez allés",
+        "ils_elles": "seront allés"
+      },
+      "conditionnel": {
+        "je": "irais",
+        "tu": "irais",
+        "il_elle_on": "irait",
+        "nous": "irions",
+        "vous": "iriez",
+        "ils_elles": "iraient"
+      },
+      "conditionnel_passe": {
+        "je": "serais allé",
+        "tu": "serais allé",
+        "il_elle_on": "serait allé",
+        "nous": "serions allés",
+        "vous": "seriez allés",
+        "ils_elles": "seraient allés"
+      },
+      "subjonctif_present": {
+        "je": "aille",
+        "tu": "ailles",
+        "il_elle_on": "aille",
+        "nous": "allions",
+        "vous": "alliez",
+        "ils_elles": "aillent"
+      },
+      "subjonctif_passe": {
+        "je": "sois allé",
+        "tu": "sois allé",
+        "il_elle_on": "soit allé",
+        "nous": "soyons allés",
+        "vous": "soyez allés",
+        "ils_elles": "soient allés"
+      },
+      "imperatif": {
+        "je": "",
+        "tu": "va",
+        "il_elle_on": "",
+        "nous": "allons",
+        "vous": "allez",
+        "ils_elles": ""
+      }
+    }
+  },
+  {
+    "infinitive": "faire",
+    "meaning": "to do / to make",
+    "group": "3rd",
+    "auxiliary": "avoir",
+    "conjugations": {
+      "present": {
+        "je": "fais",
+        "tu": "fais",
+        "il_elle_on": "fait",
+        "nous": "faisons",
+        "vous": "faites",
+        "ils_elles": "font"
+      },
+      "imparfait": {
+        "je": "faisais",
+        "tu": "faisais",
+        "il_elle_on": "faisait",
+        "nous": "faisions",
+        "vous": "faisiez",
+        "ils_elles": "faisaient"
+      },
+      "futur": {
+        "je": "ferai",
+        "tu": "feras",
+        "il_elle_on": "fera",
+        "nous": "ferons",
+        "vous": "ferez",
+        "ils_elles": "feront"
+      },
+      "passe_compose": {
+        "je": "ai fait",
+        "tu": "as fait",
+        "il_elle_on": "a fait",
+        "nous": "avons fait",
+        "vous": "avez fait",
+        "ils_elles": "ont fait"
+      },
+      "plus_que_parfait": {
+        "je": "avais fait",
+        "tu": "avais fait",
+        "il_elle_on": "avait fait",
+        "nous": "avions fait",
+        "vous": "aviez fait",
+        "ils_elles": "avaient fait"
+      },
+      "futur_anterieur": {
+        "je": "aurai fait",
+        "tu": "auras fait",
+        "il_elle_on": "aura fait",
+        "nous": "aurons fait",
+        "vous": "aurez fait",
+        "ils_elles": "auront fait"
+      },
+      "conditionnel": {
+        "je": "ferais",
+        "tu": "ferais",
+        "il_elle_on": "ferait",
+        "nous": "ferions",
+        "vous": "feriez",
+        "ils_elles": "feraient"
+      },
+      "conditionnel_passe": {
+        "je": "aurais fait",
+        "tu": "aurais fait",
+        "il_elle_on": "aurait fait",
+        "nous": "aurions fait",
+        "vous": "auriez fait",
+        "ils_elles": "auraient fait"
+      },
+      "subjonctif_present": {
+        "je": "fasse",
+        "tu": "fasses",
+        "il_elle_on": "fasse",
+        "nous": "fassions",
+        "vous": "fassiez",
+        "ils_elles": "fassent"
+      },
+      "subjonctif_passe": {
+        "je": "aie fait",
+        "tu": "aies fait",
+        "il_elle_on": "ait fait",
+        "nous": "ayons fait",
+        "vous": "ayez fait",
+        "ils_elles": "aient fait"
+      },
+      "imperatif": {
+        "je": "",
+        "tu": "fais",
+        "il_elle_on": "",
+        "nous": "faisons",
+        "vous": "faites",
+        "ils_elles": ""
+      }
+    }
+  },
+  {
+    "infinitive": "dire",
+    "meaning": "to say / to tell",
+    "group": "3rd",
+    "auxiliary": "avoir",
+    "conjugations": {
+      "present": {
+        "je": "dis",
+        "tu": "dis",
+        "il_elle_on": "dit",
+        "nous": "disons",
+        "vous": "dites",
+        "ils_elles": "disent"
+      },
+      "imparfait": {
+        "je": "disais",
+        "tu": "disais",
+        "il_elle_on": "disait",
+        "nous": "disions",
+        "vous": "disiez",
+        "ils_elles": "disaient"
+      },
+      "futur": {
+        "je": "dirai",
+        "tu": "diras",
+        "il_elle_on": "dira",
+        "nous": "dirons",
+        "vous": "direz",
+        "ils_elles": "diront"
+      },
+      "passe_compose": {
+        "je": "ai dit",
+        "tu": "as dit",
+        "il_elle_on": "a dit",
+        "nous": "avons dit",
+        "vous": "avez dit",
+        "ils_elles": "ont dit"
+      },
+      "plus_que_parfait": {
+        "je": "avais dit",
+        "tu": "avais dit",
+        "il_elle_on": "avait dit",
+        "nous": "avions dit",
+        "vous": "aviez dit",
+        "ils_elles": "avaient dit"
+      },
+      "futur_anterieur": {
+        "je": "aurai dit",
+        "tu": "auras dit",
+        "il_elle_on": "aura dit",
+        "nous": "aurons dit",
+        "vous": "aurez dit",
+        "ils_elles": "auront dit"
+      },
+      "conditionnel": {
+        "je": "dirais",
+        "tu": "dirais",
+        "il_elle_on": "dirait",
+        "nous": "dirions",
+        "vous": "diriez",
+        "ils_elles": "diraient"
+      },
+      "conditionnel_passe": {
+        "je": "aurais dit",
+        "tu": "aurais dit",
+        "il_elle_on": "aurait dit",
+        "nous": "aurions dit",
+        "vous": "auriez dit",
+        "ils_elles": "auraient dit"
+      },
+      "subjonctif_present": {
+        "je": "dise",
+        "tu": "dises",
+        "il_elle_on": "dise",
+        "nous": "disions",
+        "vous": "disiez",
+        "ils_elles": "disent"
+      },
+      "subjonctif_passe": {
+        "je": "aie dit",
+        "tu": "aies dit",
+        "il_elle_on": "ait dit",
+        "nous": "ayons dit",
+        "vous": "ayez dit",
+        "ils_elles": "aient dit"
+      },
+      "imperatif": {
+        "je": "",
+        "tu": "dis",
+        "il_elle_on": "",
+        "nous": "disons",
+        "vous": "dites",
+        "ils_elles": ""
+      }
+    }
+  },
+  {
+    "infinitive": "vouloir",
+    "meaning": "to want",
+    "group": "3rd",
+    "auxiliary": "avoir",
+    "conjugations": {
+      "present": {
+        "je": "veux",
+        "tu": "veux",
+        "il_elle_on": "veut",
+        "nous": "voulons",
+        "vous": "voulez",
+        "ils_elles": "veulent"
+      },
+      "imparfait": {
+        "je": "voulais",
+        "tu": "voulais",
+        "il_elle_on": "voulait",
+        "nous": "voulions",
+        "vous": "vouliez",
+        "ils_elles": "voulaient"
+      },
+      "futur": {
+        "je": "voudrai",
+        "tu": "voudras",
+        "il_elle_on": "voudra",
+        "nous": "voudrons",
+        "vous": "voudrez",
+        "ils_elles": "voudront"
+      },
+      "passe_compose": {
+        "je": "ai voulu",
+        "tu": "as voulu",
+        "il_elle_on": "a voulu",
+        "nous": "avons voulu",
+        "vous": "avez voulu",
+        "ils_elles": "ont voulu"
+      },
+      "plus_que_parfait": {
+        "je": "avais voulu",
+        "tu": "avais voulu",
+        "il_elle_on": "avait voulu",
+        "nous": "avions voulu",
+        "vous": "aviez voulu",
+        "ils_elles": "avaient voulu"
+      },
+      "futur_anterieur": {
+        "je": "aurai voulu",
+        "tu": "auras voulu",
+        "il_elle_on": "aura voulu",
+        "nous": "aurons voulu",
+        "vous": "aurez voulu",
+        "ils_elles": "auront voulu"
+      },
+      "conditionnel": {
+        "je": "voudrais",
+        "tu": "voudrais",
+        "il_elle_on": "voudrait",
+        "nous": "voudrions",
+        "vous": "voudriez",
+        "ils_elles": "voudraient"
+      },
+      "conditionnel_passe": {
+        "je": "aurais voulu",
+        "tu": "aurais voulu",
+        "il_elle_on": "aurait voulu",
+        "nous": "aurions voulu",
+        "vous": "auriez voulu",
+        "ils_elles": "auraient voulu"
+      },
+      "subjonctif_present": {
+        "je": "veuille",
+        "tu": "veuilles",
+        "il_elle_on": "veuille",
+        "nous": "voulions",
+        "vous": "vouliez",
+        "ils_elles": "veuillent"
+      },
+      "subjonctif_passe": {
+        "je": "aie voulu",
+        "tu": "aies voulu",
+        "il_elle_on": "ait voulu",
+        "nous": "ayons voulu",
+        "vous": "ayez voulu",
+        "ils_elles": "aient voulu"
+      },
+      "imperatif": {
+        "je": "",
+        "tu": "veuille",
+        "il_elle_on": "",
+        "nous": "veuillons",
+        "vous": "veuillez",
+        "ils_elles": ""
+      }
+    }
+  }
+
+
+]
